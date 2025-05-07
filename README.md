@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy SanJhonson
 
-<!--
-**SanJhonson/SanJhonson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un entusiasta de la tecnología y el desarrollo autodidacta, con especial interés en la creación de proyectos web e interactivos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 En lo que estoy trabajando
+
+- Aprendiendo nuevas herramientas de desarrollo y automatización.
+- Explorando formas de integrar programación, creatividad y colaboración.
+
+---
+
+## 🛠️ Habilidades en desarrollo
+
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+- Bases de datos (MySQL)  
+- Producción de contenido digital
+
+---
+
+Siempre en proceso de aprendizaje y mejora constante.  
+Gracias por pasarte por mi perfil ✨
